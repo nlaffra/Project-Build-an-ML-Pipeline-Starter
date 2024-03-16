@@ -6,6 +6,8 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+# GitHub Link: https://github.com/nlaffra
+
 # Project Link: https://github.com/nlaffra/Project-Build-an-ML-Pipeline-Starter
 
 ## Table of contents
