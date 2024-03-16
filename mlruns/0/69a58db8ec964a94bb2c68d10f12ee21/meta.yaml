@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/69a58db8ec964a94bb2c68d10f12ee21/artifacts
+end_time: 1710581962316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69a58db8ec964a94bb2c68d10f12ee21
+run_name: suave-croc-507
+run_uuid: 69a58db8ec964a94bb2c68d10f12ee21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710581892992
+status: 4
+tags: []
+user_id: nlaffra

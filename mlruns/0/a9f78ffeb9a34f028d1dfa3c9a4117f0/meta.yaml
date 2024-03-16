@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a9f78ffeb9a34f028d1dfa3c9a4117f0/artifacts
+end_time: 1710581250984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9f78ffeb9a34f028d1dfa3c9a4117f0
+run_name: crawling-hen-807
+run_uuid: a9f78ffeb9a34f028d1dfa3c9a4117f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710581236262
+status: 4
+tags: []
+user_id: nlaffra

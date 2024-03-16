@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/86ab79c07fbd4901863027d68f3f9d18/artifacts
+end_time: 1710582473335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86ab79c07fbd4901863027d68f3f9d18
+run_name: skittish-dog-473
+run_uuid: 86ab79c07fbd4901863027d68f3f9d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710582460732
+status: 3
+tags: []
+user_id: nlaffra

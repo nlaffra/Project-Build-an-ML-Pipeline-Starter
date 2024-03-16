@@ -110,7 +110,7 @@ def go(config: DictConfig):
                     "rf_config": rf_config,
                     "max_tfidf_features": config["modeling"]["max_tfidf_features"],
                     "output_artifact": "random_forest_export"
-                }
+                },
             )
             pass
 
@@ -121,7 +121,7 @@ def go(config: DictConfig):
                 parameters={
                     "mlflow_model": "random_forest_export:prod",
                     "test_dataset": "test_data.csv:latest"
-                }
+                },
             )
             pass
 

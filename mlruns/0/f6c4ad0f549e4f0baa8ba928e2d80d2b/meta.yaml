@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f6c4ad0f549e4f0baa8ba928e2d80d2b/artifacts
+end_time: 1710581554656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6c4ad0f549e4f0baa8ba928e2d80d2b
+run_name: youthful-ant-160
+run_uuid: f6c4ad0f549e4f0baa8ba928e2d80d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710581360679
+status: 3
+tags: []
+user_id: nlaffra

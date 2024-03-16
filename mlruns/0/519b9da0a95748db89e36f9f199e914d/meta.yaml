@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/519b9da0a95748db89e36f9f199e914d/artifacts
+end_time: 1710581385848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 519b9da0a95748db89e36f9f199e914d
+run_name: sneaky-chimp-773
+run_uuid: 519b9da0a95748db89e36f9f199e914d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710581362352
+status: 3
+tags: []
+user_id: nlaffra

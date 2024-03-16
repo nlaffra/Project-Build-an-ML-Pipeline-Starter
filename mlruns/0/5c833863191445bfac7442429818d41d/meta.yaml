@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c833863191445bfac7442429818d41d/artifacts
+end_time: 1710581468226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c833863191445bfac7442429818d41d
+run_name: defiant-mule-979
+run_uuid: 5c833863191445bfac7442429818d41d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710581419804
+status: 3
+tags: []
+user_id: nlaffra

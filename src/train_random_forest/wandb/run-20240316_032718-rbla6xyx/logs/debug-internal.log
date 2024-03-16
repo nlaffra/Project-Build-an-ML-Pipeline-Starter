@@ -1,0 +1,72 @@
+2024-03-16 03:27:18,548 INFO    StreamThr :179195 [internal.py:wandb_internal():87] W&B internal server running at pid: 179195, started at: 2024-03-16 03:27:18.548352
+2024-03-16 03:27:18,549 DEBUG   HandlerThread:179195 [handler.py:handle_request():144] handle_request: status
+2024-03-16 03:27:18,551 INFO    WriterThread:179195 [datastore.py:open_for_write():85] open: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/run-rbla6xyx.wandb
+2024-03-16 03:27:18,551 DEBUG   SenderThread:179195 [sender.py:send():334] send: header
+2024-03-16 03:27:18,555 DEBUG   SenderThread:179195 [sender.py:send():334] send: run
+2024-03-16 03:27:18,889 DEBUG   HandlerThread:179195 [handler.py:handle_request():144] handle_request: check_version
+2024-03-16 03:27:18,889 INFO    SenderThread:179195 [dir_watcher.py:__init__():216] watching files in: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files
+2024-03-16 03:27:18,889 INFO    SenderThread:179195 [sender.py:_start_run_threads():1065] run started: rbla6xyx with start time 1710581238.547795
+2024-03-16 03:27:18,889 DEBUG   SenderThread:179195 [sender.py:send_request():361] send_request: summary_record
+2024-03-16 03:27:18,889 INFO    SenderThread:179195 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-03-16 03:27:18,890 DEBUG   SenderThread:179195 [sender.py:send_request():361] send_request: check_version
+2024-03-16 03:27:18,976 DEBUG   HandlerThread:179195 [handler.py:handle_request():144] handle_request: run_start
+2024-03-16 03:27:18,991 DEBUG   HandlerThread:179195 [system_info.py:__init__():31] System info init
+2024-03-16 03:27:18,991 DEBUG   HandlerThread:179195 [system_info.py:__init__():46] System info init done
+2024-03-16 03:27:18,991 INFO    HandlerThread:179195 [system_monitor.py:start():151] Starting system monitor
+2024-03-16 03:27:18,991 INFO    SystemMonitor:179195 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-03-16 03:27:18,991 INFO    HandlerThread:179195 [system_monitor.py:probe():172] Collecting system info
+2024-03-16 03:27:18,993 INFO    SystemMonitor:179195 [interfaces.py:start():168] Started cpu
+2024-03-16 03:27:18,995 INFO    SystemMonitor:179195 [interfaces.py:start():168] Started disk
+2024-03-16 03:27:18,995 INFO    SystemMonitor:179195 [interfaces.py:start():168] Started gpu
+2024-03-16 03:27:18,995 INFO    SystemMonitor:179195 [interfaces.py:start():168] Started memory
+2024-03-16 03:27:18,995 INFO    SystemMonitor:179195 [interfaces.py:start():168] Started network
+2024-03-16 03:27:19,004 DEBUG   HandlerThread:179195 [system_info.py:probe():195] Probing system
+2024-03-16 03:27:19,022 DEBUG   HandlerThread:179195 [system_info.py:_probe_git():180] Probing git
+2024-03-16 03:27:19,027 DEBUG   HandlerThread:179195 [system_info.py:_probe_git():188] Probing git done
+2024-03-16 03:27:19,027 DEBUG   HandlerThread:179195 [system_info.py:probe():241] Probing system done
+2024-03-16 03:27:19,027 DEBUG   HandlerThread:179195 [system_monitor.py:probe():181] {'os': 'Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'python': '3.9.18', 'heartbeatAt': '2024-03-16T09:27:19.004165', 'startedAt': '2024-03-16T09:27:18.543493', 'docker': None, 'cuda': None, 'args': ('--trainval_artifact', 'trainval_data.csv:latest', '--val_size', '0.2', '--random_seed', '42', '--stratify_by', 'neighbourhood_group', '--rf_config', '/home/nlaffra/Project-Build-an-ML-Pipeline-Starter/multirun/2024-03-16/03-27-15/0/rf_config.json', '--max_tfidf_features', '5', '--output_artifact', 'random_forest_export'), 'state': 'running', 'program': '/home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py', 'codePath': 'src/train_random_forest/run.py', 'git': {'remote': 'https://github.com/nlaffra/Project-Build-an-ML-Pipeline-Starter.git', 'commit': '105e64820a755e3d95a3c6363630a62926ce439a'}, 'email': 'nlaffra@wgu.edu', 'root': '/home/nlaffra/Project-Build-an-ML-Pipeline-Starter', 'host': 'Data', 'username': 'nlaffra', 'executable': '/home/nlaffra/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python', 'cpu_count': 10, 'cpu_count_logical': 20, 'cpu_freq': {'current': 2918.3980000000006, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}, {'current': 2918.398, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1006.853931427002, 'used': 18.038829803466797}, 'gpu': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'memory_total': 6442450944}], 'memory': {'total': 7.5941925048828125}}
+2024-03-16 03:27:19,027 INFO    HandlerThread:179195 [system_monitor.py:probe():182] Finished collecting system info
+2024-03-16 03:27:19,027 INFO    HandlerThread:179195 [system_monitor.py:probe():185] Publishing system info
+2024-03-16 03:27:19,027 DEBUG   HandlerThread:179195 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-03-16 03:27:19,028 DEBUG   HandlerThread:179195 [system_info.py:_save_pip():67] Saving pip packages done
+2024-03-16 03:27:19,028 DEBUG   HandlerThread:179195 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-03-16 03:27:19,890 INFO    Thread-13 :179195 [dir_watcher.py:_on_file_created():275] file/dir created: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files/conda-environment.yaml
+2024-03-16 03:27:19,890 INFO    Thread-13 :179195 [dir_watcher.py:_on_file_created():275] file/dir created: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files/wandb-summary.json
+2024-03-16 03:27:19,890 INFO    Thread-13 :179195 [dir_watcher.py:_on_file_created():275] file/dir created: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files/requirements.txt
+2024-03-16 03:27:19,952 DEBUG   HandlerThread:179195 [system_info.py:_save_conda():86] Saving conda packages done
+2024-03-16 03:27:19,952 INFO    HandlerThread:179195 [system_monitor.py:probe():187] Finished publishing system info
+2024-03-16 03:27:19,954 DEBUG   SenderThread:179195 [sender.py:send():334] send: files
+2024-03-16 03:27:19,954 INFO    SenderThread:179195 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-03-16 03:27:19,958 DEBUG   HandlerThread:179195 [handler.py:handle_request():144] handle_request: stop_status
+2024-03-16 03:27:19,958 DEBUG   SenderThread:179195 [sender.py:send_request():361] send_request: stop_status
+2024-03-16 03:27:20,160 DEBUG   SenderThread:179195 [sender.py:send():334] send: telemetry
+2024-03-16 03:27:20,161 DEBUG   SenderThread:179195 [sender.py:send():334] send: config
+2024-03-16 03:27:20,161 DEBUG   SenderThread:179195 [sender.py:send():334] send: config
+2024-03-16 03:27:20,379 DEBUG   SenderThread:179195 [sender.py:send():334] send: use_artifact
+2024-03-16 03:27:20,486 INFO    Thread-16 :179195 [upload_job.py:push():143] Uploaded file /tmp/tmpb57kqm_2wandb/hecml5e5-wandb-metadata.json
+2024-03-16 03:27:20,890 INFO    Thread-13 :179195 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files/conda-environment.yaml
+2024-03-16 03:27:20,890 INFO    Thread-13 :179195 [dir_watcher.py:_on_file_created():275] file/dir created: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files/wandb-metadata.json
+2024-03-16 03:27:20,890 INFO    Thread-13 :179195 [dir_watcher.py:_on_file_created():275] file/dir created: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files/output.log
+2024-03-16 03:27:22,890 INFO    Thread-13 :179195 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files/output.log
+2024-03-16 03:27:23,689 DEBUG   HandlerThread:179195 [handler.py:handle_request():144] handle_request: status_report
+2024-03-16 03:27:28,690 DEBUG   HandlerThread:179195 [handler.py:handle_request():144] handle_request: status_report
+2024-03-16 03:27:30,894 INFO    Thread-13 :179195 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files/output.log
+2024-03-16 03:27:30,921 DEBUG   HandlerThread:179195 [handler.py:handle_request():144] handle_request: log_artifact
+2024-03-16 03:27:30,921 DEBUG   SenderThread:179195 [sender.py:send_request():361] send_request: log_artifact
+2024-03-16 03:27:30,998 ERROR   cpu       :179195 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=179158)
+2024-03-16 03:27:30,998 ERROR   cpu       :179195 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=179158)
+2024-03-16 03:27:30,999 ERROR   memory    :179195 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=179158)
+2024-03-16 03:27:30,999 ERROR   memory    :179195 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=179158)
+2024-03-16 03:27:31,859 INFO    Thread-23 :179195 [upload_job.py:push():98] Skipped uploading /home/nlaffra/.local/share/wandb/artifacts/staging/tmp1vx3qrp0
+2024-03-16 03:27:31,860 INFO    Thread-22 :179195 [upload_job.py:push():98] Skipped uploading /home/nlaffra/.local/share/wandb/artifacts/staging/tmpuys53ops
+2024-03-16 03:27:31,860 INFO    Thread-20 :179195 [upload_job.py:push():98] Skipped uploading /home/nlaffra/.local/share/wandb/artifacts/staging/tmp1bgpdwp6
+2024-03-16 03:27:31,861 INFO    Thread-19 :179195 [upload_job.py:push():98] Skipped uploading /home/nlaffra/.local/share/wandb/artifacts/staging/tmpagvatbbf
+2024-03-16 03:27:32,121 INFO    Thread-18 :179195 [upload_job.py:push():101] Uploaded file /home/nlaffra/.local/share/wandb/artifacts/staging/tmpblw1z0ya
+2024-03-16 03:27:32,589 INFO    Thread-21 :179195 [upload_job.py:push():101] Uploaded file /home/nlaffra/.local/share/wandb/artifacts/staging/tmp_ksmq98k
+2024-03-16 03:27:32,895 INFO    Thread-13 :179195 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240316_032718-rbla6xyx/files/output.log
+2024-03-16 03:27:32,999 ERROR   cpu       :179195 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=179158)
+2024-03-16 03:27:33,000 ERROR   memory    :179195 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=179158)
+2024-03-16 03:27:33,000 ERROR   memory    :179195 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=179158)
+2024-03-16 03:27:33,000 ERROR   cpu       :179195 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=179158)
+2024-03-16 03:27:33,329 INFO    SenderThread:179195 [sender.py:send_request_log_artifact():1379] logged artifact random_forest_export - {'id': 'QXJ0aWZhY3Q6NzU4MzQwMjI3', 'digest': 'af2bdf0488885c88f093c40746fb1608', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE0OTM2OTYzMw==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NzU4MzMwMzMy', 'versionIndex': 0}}, 'version': 'latest'}
+2024-03-16 03:27:33,979 INFO    MainThread:179195 [internal.py:handle_exit():77] Internal process exited
