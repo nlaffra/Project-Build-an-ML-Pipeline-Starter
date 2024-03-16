@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e89c674317dd448bb868b86fe2f7b3a8/artifacts
+end_time: 1710579269167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e89c674317dd448bb868b86fe2f7b3a8
+run_name: colorful-shrike-243
+run_uuid: e89c674317dd448bb868b86fe2f7b3a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710579181765
+status: 3
+tags: []
+user_id: nlaffra
