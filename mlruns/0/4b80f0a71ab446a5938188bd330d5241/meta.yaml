@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4b80f0a71ab446a5938188bd330d5241/artifacts
+end_time: 1710583650709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b80f0a71ab446a5938188bd330d5241
+run_name: resilient-flea-178
+run_uuid: 4b80f0a71ab446a5938188bd330d5241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710583643381
+status: 4
+tags: []
+user_id: nlaffra

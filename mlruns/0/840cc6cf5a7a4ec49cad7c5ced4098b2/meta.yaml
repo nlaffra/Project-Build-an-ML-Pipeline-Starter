@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/840cc6cf5a7a4ec49cad7c5ced4098b2/artifacts
+end_time: 1710583650871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 840cc6cf5a7a4ec49cad7c5ced4098b2
+run_name: lyrical-hare-140
+run_uuid: 840cc6cf5a7a4ec49cad7c5ced4098b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710583611746
+status: 4
+tags: []
+user_id: nlaffra
