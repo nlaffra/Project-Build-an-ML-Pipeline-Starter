@@ -28,11 +28,16 @@ def go(args):
     df = pd.read_csv(local_path)
     
     # EDA with arguments passed into the step
-    logger.info('Cleaning data.')
+    logger.info('Dropping price outliers.')
+    
     idx = df['price'].between(float(args.min_price), float(args.max_price))
     df = df[idx].copy()
+    
+    logger.info('Updating time format.')
     df['last_review'] = pd.to_datetime(df['last_review'])
     # TODO: add code to fix the issue happened when testing the model
+    
+    logger.info('Removing geographic outliers.')
     idx = df['longitude'].between(-74.25, -73.50) & df['latitude'].between(40.5, 41.2)
     df = df[idx].copy()
 

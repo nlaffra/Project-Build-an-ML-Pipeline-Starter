@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/014645b2436246c782f65dff2087e89f/artifacts
+end_time: 1710584483785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 014645b2436246c782f65dff2087e89f
+run_name: amazing-koi-8
+run_uuid: 014645b2436246c782f65dff2087e89f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710584475806
+status: 3
+tags: []
+user_id: nlaffra

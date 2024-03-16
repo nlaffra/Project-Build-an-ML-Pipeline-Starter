@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9c4ec1c5765b420f8aef1cd0ab762025/artifacts
+end_time: 1710583963710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c4ec1c5765b420f8aef1cd0ab762025
+run_name: flawless-sheep-949
+run_uuid: 9c4ec1c5765b420f8aef1cd0ab762025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710583956804
+status: 4
+tags: []
+user_id: nlaffra

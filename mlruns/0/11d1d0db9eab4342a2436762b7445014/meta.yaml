@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/11d1d0db9eab4342a2436762b7445014/artifacts
+end_time: 1710584463647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11d1d0db9eab4342a2436762b7445014
+run_name: thoughtful-slug-975
+run_uuid: 11d1d0db9eab4342a2436762b7445014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710584454639
+status: 3
+tags: []
+user_id: nlaffra

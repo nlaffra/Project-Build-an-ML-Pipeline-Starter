@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/635671f6121847a6b3a7d7cd18d21ae7/artifacts
+end_time: 1710584499662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 635671f6121847a6b3a7d7cd18d21ae7
+run_name: redolent-gnat-765
+run_uuid: 635671f6121847a6b3a7d7cd18d21ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710584486476
+status: 3
+tags: []
+user_id: nlaffra
