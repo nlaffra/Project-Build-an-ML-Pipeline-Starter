@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/514ed4c510894461a73540a527df793d/artifacts
+end_time: 1710580501469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 514ed4c510894461a73540a527df793d
+run_name: chill-mink-129
+run_uuid: 514ed4c510894461a73540a527df793d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710580481566
+status: 4
+tags: []
+user_id: nlaffra

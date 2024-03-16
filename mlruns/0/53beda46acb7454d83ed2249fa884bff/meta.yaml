@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/53beda46acb7454d83ed2249fa884bff/artifacts
+end_time: 1710579999854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53beda46acb7454d83ed2249fa884bff
+run_name: ambitious-mule-672
+run_uuid: 53beda46acb7454d83ed2249fa884bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710579999092
+status: 4
+tags: []
+user_id: nlaffra

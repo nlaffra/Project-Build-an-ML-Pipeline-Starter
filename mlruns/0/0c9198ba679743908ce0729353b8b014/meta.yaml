@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0c9198ba679743908ce0729353b8b014/artifacts
+end_time: 1710580648716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c9198ba679743908ce0729353b8b014
+run_name: grandiose-skink-983
+run_uuid: 0c9198ba679743908ce0729353b8b014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710580633697
+status: 4
+tags: []
+user_id: nlaffra

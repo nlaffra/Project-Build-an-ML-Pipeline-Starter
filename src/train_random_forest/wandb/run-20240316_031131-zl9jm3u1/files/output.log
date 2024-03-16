@@ -1,0 +1,10 @@
+2024-03-16 03:11:33,433 Minimum price: 10, Maximum price: 350
+2024-03-16 03:11:33,441 Preparing sklearn pipeline
+Traceback (most recent call last):
+  File "/home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 298, in <module>
+    go(args)
+  File "/home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 69, in go
+    sk_pipe, processed_features = get_inference_pipeline(rf_config, args.max_tfidf_features)
+  File "/home/nlaffra/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 235, in get_inference_pipeline
+    ("random_forest", random_Forest)
+NameError: name 'random_Forest' is not defined

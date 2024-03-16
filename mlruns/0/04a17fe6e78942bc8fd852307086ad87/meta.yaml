@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/04a17fe6e78942bc8fd852307086ad87/artifacts
+end_time: 1710580218484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04a17fe6e78942bc8fd852307086ad87
+run_name: amusing-fawn-911
+run_uuid: 04a17fe6e78942bc8fd852307086ad87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710580134704
+status: 4
+tags: []
+user_id: nlaffra

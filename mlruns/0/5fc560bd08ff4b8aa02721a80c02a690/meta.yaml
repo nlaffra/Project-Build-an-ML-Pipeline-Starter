@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5fc560bd08ff4b8aa02721a80c02a690/artifacts
+end_time: 1710580501320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fc560bd08ff4b8aa02721a80c02a690
+run_name: defiant-stork-779
+run_uuid: 5fc560bd08ff4b8aa02721a80c02a690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710580483255
+status: 4
+tags: []
+user_id: nlaffra

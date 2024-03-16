@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dfdd47d1346d486881d61d45604afe55/artifacts
+end_time: 1710580948575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfdd47d1346d486881d61d45604afe55
+run_name: powerful-asp-883
+run_uuid: dfdd47d1346d486881d61d45604afe55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710580934011
+status: 4
+tags: []
+user_id: nlaffra

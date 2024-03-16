@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2a2595a5560b4b4497ee3655fefb468f/artifacts
+end_time: 1710580218661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a2595a5560b4b4497ee3655fefb468f
+run_name: skillful-gnat-57
+run_uuid: 2a2595a5560b4b4497ee3655fefb468f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710580133016
+status: 4
+tags: []
+user_id: nlaffra

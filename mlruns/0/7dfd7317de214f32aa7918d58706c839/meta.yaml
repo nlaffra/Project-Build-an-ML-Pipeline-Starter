@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7dfd7317de214f32aa7918d58706c839/artifacts
+end_time: 1710580064193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dfd7317de214f32aa7918d58706c839
+run_name: dashing-snipe-273
+run_uuid: 7dfd7317de214f32aa7918d58706c839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710580063461
+status: 4
+tags: []
+user_id: nlaffra

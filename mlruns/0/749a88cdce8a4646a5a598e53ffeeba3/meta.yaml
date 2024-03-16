@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/749a88cdce8a4646a5a598e53ffeeba3/artifacts
+end_time: 1710579926927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 749a88cdce8a4646a5a598e53ffeeba3
+run_name: thundering-snipe-573
+run_uuid: 749a88cdce8a4646a5a598e53ffeeba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710579926196
+status: 4
+tags: []
+user_id: nlaffra

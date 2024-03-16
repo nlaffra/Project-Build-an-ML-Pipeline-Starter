@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f06c18d2622d4408bfebdd12533c13d2/artifacts
+end_time: 1710580648870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f06c18d2622d4408bfebdd12533c13d2
+run_name: resilient-deer-153
+run_uuid: f06c18d2622d4408bfebdd12533c13d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710580632006
+status: 4
+tags: []
+user_id: nlaffra
