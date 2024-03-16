@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/85821cd8736b43bc9207137fb450d47a/artifacts
+end_time: 1710578154206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85821cd8736b43bc9207137fb450d47a
+run_name: righteous-gnu-128
+run_uuid: 85821cd8736b43bc9207137fb450d47a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710578122836
+status: 3
+tags: []
+user_id: nlaffra

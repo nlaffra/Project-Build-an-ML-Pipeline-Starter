@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cb867269745f4b98a3c452e8b409ecc5/artifacts
+end_time: 1710565085635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb867269745f4b98a3c452e8b409ecc5
+run_name: smiling-jay-569
+run_uuid: cb867269745f4b98a3c452e8b409ecc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710565073959
+status: 3
+tags: []
+user_id: nlaffra

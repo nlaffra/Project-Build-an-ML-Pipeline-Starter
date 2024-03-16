@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4dee25af93eb464bb6e36e00ce325a50/artifacts
+end_time: 1710564647976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dee25af93eb464bb6e36e00ce325a50
+run_name: puzzled-cat-405
+run_uuid: 4dee25af93eb464bb6e36e00ce325a50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710564627276
+status: 4
+tags: []
+user_id: nlaffra

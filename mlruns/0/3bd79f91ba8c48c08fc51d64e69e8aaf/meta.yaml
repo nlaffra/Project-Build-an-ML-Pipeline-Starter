@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3bd79f91ba8c48c08fc51d64e69e8aaf/artifacts
+end_time: 1710577662301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bd79f91ba8c48c08fc51d64e69e8aaf
+run_name: handsome-gnat-805
+run_uuid: 3bd79f91ba8c48c08fc51d64e69e8aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710577660753
+status: 4
+tags: []
+user_id: nlaffra

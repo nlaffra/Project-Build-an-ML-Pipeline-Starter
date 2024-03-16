@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d070b733e59e460eb949ef7648710f46/artifacts
+end_time: 1710564985411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d070b733e59e460eb949ef7648710f46
+run_name: learned-panda-791
+run_uuid: d070b733e59e460eb949ef7648710f46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710564984668
+status: 4
+tags: []
+user_id: nlaffra

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/af07e318620a492fb49138ce82e82e92/artifacts
+end_time: 1710577809119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af07e318620a492fb49138ce82e82e92
+run_name: bemused-slug-254
+run_uuid: af07e318620a492fb49138ce82e82e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710577799349
+status: 3
+tags: []
+user_id: nlaffra

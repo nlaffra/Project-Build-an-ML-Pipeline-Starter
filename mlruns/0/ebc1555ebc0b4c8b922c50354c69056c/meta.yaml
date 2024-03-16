@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ebc1555ebc0b4c8b922c50354c69056c/artifacts
+end_time: 1710563168614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebc1555ebc0b4c8b922c50354c69056c
+run_name: omniscient-roo-285
+run_uuid: ebc1555ebc0b4c8b922c50354c69056c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710563091801
+status: 3
+tags: []
+user_id: nlaffra

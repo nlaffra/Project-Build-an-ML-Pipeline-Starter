@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nlaffra/Project-Build-an-ML-Pipeline-Starter/mlruns/0/60f98c6db656443583bc3f108e404ab2/artifacts
+end_time: 1710565085742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60f98c6db656443583bc3f108e404ab2
+run_name: victorious-sloth-554
+run_uuid: 60f98c6db656443583bc3f108e404ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710565072528
+status: 3
+tags: []
+user_id: nlaffra
